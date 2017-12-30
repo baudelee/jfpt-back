@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **demo**: [https://taylorchen709.github.io/vue-admin/](https://taylorchen709.github.io/vue-admin/)
 
 # To start
@@ -55,3 +56,7 @@ Modern browsers and IE 10+.
 
 # License
 [MIT](http://opensource.org/licenses/MIT)
+=======
+# jfpt-back
+金服后台管理
+>>>>>>> fb0acd24102327e79d3f44cb787d448a91bc9091
